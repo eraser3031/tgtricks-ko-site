@@ -1,0 +1,53 @@
+3:"$Sreact.fragment"
+4:"/tgtricks-ko-site/_next/static/chunks/29pocfxfahf66.js"
+5:"/tgtricks-ko-site/_next/static/chunks/17dpa5a0cf8m3.js"
+6:"/tgtricks-ko-site/_next/static/chunks/336ref_41vxre.js"
+7:"/tgtricks-ko-site/_next/static/chunks/2kz6vh0eq5c6-.js"
+8:I[42194,["$4","$5","$6","$7"],"default"]
+9:I[5817,["$4","$5","$6","$7"],"default"]
+e:"/tgtricks-ko-site/_next/static/chunks/2_9vk04f51ak9.js"
+f:"/tgtricks-ko-site/_next/static/chunks/2uhb0rf-4-apz.js"
+10:"/tgtricks-ko-site/_next/static/chunks/08y56__5va9qd.js"
+11:"/tgtricks-ko-site/_next/static/chunks/27pdr-a3rw7r4.js"
+12:"/tgtricks-ko-site/_next/static/chunks/2s34ijz_codt7.js"
+13:"/tgtricks-ko-site/_next/static/chunks/0apo_hhmwh1br.js"
+14:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsPage"]
+15:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsTitle"]
+16:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsDescription"]
+17:"MarkdownCopyButton"
+18:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"$17"]
+19:"ViewOptionsPopover"
+1a:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"$19"]
+1b:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsBody"]
+1c:I[27753,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"Heading"]
+1d:I[88032,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"default"]
+26:"ViewportBoundary"
+27:I[13693,["$4","$5","$6","$7"],"$26"]
+28:"MetadataBoundary"
+29:I[13693,["$4","$5","$6","$7"],"$28"]
+2a:"$Sreact.suspense"
+2b:I[14017,["$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L14",null,{"toc":[{"depth":2,"url":"#endpoints","title":"진입점 한눈에 보기"},{"depth":2,"url":"#usage","title":"사용 예"},{"depth":2,"url":"#page-actions","title":"페이지의 버튼"},{"depth":2,"url":"#implementation","title":"구현 설명"}],"children":[["$","$L15",null,{"children":"AI 연동"}],["$","$L16",null,{"className":"mb-0","children":"llms.txt와 페이지별 Markdown으로 AI 에이전트가 기법 리포트, 시스템 설계, 렌더링과 미디어 하위 문서를 읽을 수 있어요."}],["$","div",null,{"className":"flex flex-row items-center gap-2 border-b pb-6","children":[["$","$L18",null,{"markdownUrl":"/tgtricks-ko-site/docs/ai.md"}],["$","$L1a",null,{"markdownUrl":"/tgtricks-ko-site/docs/ai.md"}]]}],["$","$L1b",null,{"children":[["$","p",null,{"children":"이 사이트는 AI 에이전트가 읽을 수 있는 정적 파일을 진입점으로 준비해 뒀어요. 진입점은 모두 읽기만 할 수 있고, 로그인도 필요 없어요. 웹 페이지와 같은 콘텐츠 소스에서 빌드할 때 만들기 때문에, 웹 페이지와 내용이 똑같아요."}],"\n",["$","$L1c",null,{"as":"h2","id":"endpoints","children":"진입점 한눈에 보기"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"진입점"}],["$","th",null,{"children":"경로"}],["$","th",null,{"children":"내용"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"llms.txt"}],["$","td",null,{"children":"/llms.txt"}],["$","td",null,{"children":"사이트 색인: 전체 페이지의 제목, 링크, 요약"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"llms-full.txt"}],["$","td",null,{"children":"/llms-full.txt"}],["$","td",null,{"children":"전체 페이지의 Markdown 전문"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"페이지별 Markdown"}],["$","td",null,{"children":"/docs/<경로>.md"}],["$","td",null,{"children":["페이지 주소 끝의 슬래시를 빼고 .md를 붙여요. 예: ",["$","code",null,{"children":"/docs/rea.md"}],", ",["$","code",null,{"children":"/docs/system/08-postbox-storage.md"}]]}]]}]]}]]}]}],"\n",["$","p",null,{"children":"경로는 이 사이트의 도메인이 기준이에요."}],"\n",["$","p",null,{"children":["웹 페이지의 인터랙티브 컴포넌트는 Markdown에서 표와 목록으로 펼쳐져요. 예를 들어 기법 색인 페이지의 Markdown은 기법 300개를 모두 표로 보여 주고, 각 항목은 해당 장의 앵커(",["$","code",null,{"children":"[#...]"}]," 형태의 제목 표식)로 연결돼요."]}],"\n",["$","$L1c",null,{"as":"h2","id":"usage","children":"사용 예"}],"\n",["$","p",null,{"children":"에이전트에게 사이트 전체 맥락을 주는 방법은 두 가지예요."}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"필요한 장만 읽히기"}],": ",["$","code",null,{"children":"/llms.txt"}],"를 먼저 읽히고, 그다음 필요한 장의 ",["$","code",null,{"children":".md"}]," 주소를 골라 읽히세요."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"전부 한 번에 넣기"}],": ",["$","code",null,{"children":"/llms-full.txt"}],"를 쓰세요. 이 파일은 크기가 커서 컨텍스트 창(모델이 한 번에 읽을 수 있는 분량)이 넉넉한 모델에 알맞아요."]}],"\n"]}],"\n",["$","p",null,{"children":"기법 하나를 찾을 때는 이렇게 해요."}],"\n",["$","ol",null,{"children":["\n",["$","li",null,{"children":[["$","$L1d",null,{"href":"/docs/explorer/","children":"기법 색인"}],"에서 번호와 장을 확인해요."]}],"\n",["$","li",null,{"children":["해당 장의 Markdown에서 ",["$","code",null,{"children":"[#t01-01]"}]," 같은 앵커로 항목을 찾아요."]}],"\n"]}],"\n",["$","p",null,{"children":["시스템 설계와 렌더링과 미디어 하위 문서에는 항목 번호가 없어요. 그래서 ",["$","code",null,{"children":"/llms.txt"}],"에서 장을 고른 뒤 장 전체를 읽어요. 예: ",["$","code",null,{"children":"/docs/system/08-postbox-storage.md"}]," 또는 ",["$","code",null,{"children":"/docs/media/01-lottie-pipeline.md"}],"."]}],"\n",["$","$L1c",null,{"as":"h2","id":"page-actions","children":"페이지의 버튼"}],"\n",["$","p",null,{"children":"모든 페이지의 제목 아래에는 버튼이 두 개 있어요."}],"\n",["$","ul",null,{"children":["\n",["$","li",null,{"children":[["$","strong",null,{"children":"Markdown 복사"}],": 이 페이지의 Markdown을 클립보드에 복사해요."]}],"\n",["$","li",null,{"children":[["$","strong",null,{"children":"AI에서 열기"}],": 이 페이지를 Markdown으로 보거나 ChatGPT, Claude, Cursor, Scira AI에서 열어요. 열 때 AI가 먼저 이 페이지 주소를 읽도록 요청하는 문장도 함께 보내요."]}],"\n"]}],"\n",["$","$L1c",null,{"as":"h2","id":"implementation","children":"구현 설명"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"부분"}],["$","th",null,{"children":"구현"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"사이트"}],["$","td",null,{"children":["Fumadocs와 Next.js 정적 내보내기(",["$","code",null,{"children":"output: 'export'"}],"). 서버 없이 정적 호스팅으로 배포해요"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"llms.txt와 전문"}],["$","td",null,{"children":["빌드 전에 번역 원고에서 만들어 ",["$","code",null,{"children":"public/llms.txt"}],", ",["$","code",null,{"children":"public/llms-full.txt"}],"로 내보내요"]}]]}],"$L1e","$L1f"]}]]}]}]]}]]}],["$L20","$L21","$L22","$L23"],"$L24"]}],"p":"$@25","v":null,"s":"$c"}}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"ai","s":[]},"h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+1:[["children",{"s":"docs","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L27",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L29",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$2a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI 연동 · Telegram 기법 아카이브"}],["$","meta","1",{"name":"description","content":"llms.txt와 페이지별 Markdown으로 AI 에이전트가 기법 리포트, 시스템 설계, 렌더링과 미디어 하위 문서를 읽을 수 있어요."}],["$","link","2",{"rel":"icon","href":"/tgtricks-ko-site/icon.svg?icon.29hjlrbf03acm.svg","sizes":"any","type":"image/svg+xml"}],["$","$L2b","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@2c","v":null,"s":"$c"}},"a":"$@2d","u":"$@2e","b":"oxZA3t4WYWhqWg1vO-opL"}
+2f:I[13693,["$4","$5","$6","$7"],"OutletBoundary"]
+:HL["/tgtricks-ko-site/_next/static/chunks/3bcurqnrxrgbo.css","style"]
+1e:["$","tr",null,{"children":[["$","td",null,{"children":"페이지별 Markdown"}],["$","td",null,{"children":["같은 원고를 ",["$","code",null,{"children":"public/docs/<경로>.md"}],"로 내보내요. 정적 파일이라 HTML 페이지(",["$","code",null,{"children":"/docs/<경로>/"}],")와 경로가 겹치지 않아요"]}]]}]
+1f:["$","tr",null,{"children":[["$","td",null,{"children":"검색"}],["$","td",null,{"children":["Fumadocs 정적 검색. 빌드할 때 색인을 ",["$","code",null,{"children":"/api/search"}],"로 내보내고 브라우저에서 질의해요"]}]]}]
+20:["$","link","0",{"rel":"stylesheet","href":"/tgtricks-ko-site/_next/static/chunks/3bcurqnrxrgbo.css","precedence":"next"}]
+21:["$","script","script-0",{"src":"/tgtricks-ko-site/_next/static/chunks/27pdr-a3rw7r4.js","async":true}]
+22:["$","script","script-1",{"src":"/tgtricks-ko-site/_next/static/chunks/2s34ijz_codt7.js","async":true}]
+23:["$","script","script-2",{"src":"/tgtricks-ko-site/_next/static/chunks/0apo_hhmwh1br.js","async":true}]
+24:["$","$L2f",null,{"children":["$","$2a",null,{"name":"Next.MetadataOutlet","children":"$@30"}]}]
+2e:true
+c:300
+30:null
+c:C
+2d:0
+a:"$undefined"
+2c:"$undefined"
+25:"$undefined"

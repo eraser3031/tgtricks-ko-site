@@ -1,0 +1,75 @@
+3:"$Sreact.fragment"
+4:"/tgtricks-ko-site/_next/static/chunks/29pocfxfahf66.js"
+5:"/tgtricks-ko-site/_next/static/chunks/17dpa5a0cf8m3.js"
+6:"/tgtricks-ko-site/_next/static/chunks/336ref_41vxre.js"
+7:"/tgtricks-ko-site/_next/static/chunks/2kz6vh0eq5c6-.js"
+8:I[42194,["$4","$5","$6","$7"],"default"]
+9:I[5817,["$4","$5","$6","$7"],"default"]
+e:"/tgtricks-ko-site/_next/static/chunks/2_9vk04f51ak9.js"
+f:"/tgtricks-ko-site/_next/static/chunks/2uhb0rf-4-apz.js"
+10:"/tgtricks-ko-site/_next/static/chunks/08y56__5va9qd.js"
+11:"/tgtricks-ko-site/_next/static/chunks/27pdr-a3rw7r4.js"
+12:"/tgtricks-ko-site/_next/static/chunks/2s34ijz_codt7.js"
+13:"/tgtricks-ko-site/_next/static/chunks/0apo_hhmwh1br.js"
+14:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsPage"]
+15:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsTitle"]
+16:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsDescription"]
+17:"MarkdownCopyButton"
+18:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"$17"]
+19:"ViewOptionsPopover"
+1a:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"$19"]
+1b:I[37457,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"DocsBody"]
+1c:I[27753,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"Heading"]
+1d:I[88032,["$4","$5","$6","$7","$e","$f","$10","$11","$12","$13"],"default"]
+3c:"ViewportBoundary"
+3d:I[13693,["$4","$5","$6","$7"],"$3c"]
+3e:"MetadataBoundary"
+3f:I[13693,["$4","$5","$6","$7"],"$3e"]
+40:"$Sreact.suspense"
+41:I[14017,["$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","$L14",null,{"toc":[{"depth":2,"url":"#repos","title":"소스 코드 저장소"},{"depth":2,"url":"#tools","title":"바이너리와 도구"},{"depth":2,"url":"#glossary","title":"용어집"},{"depth":2,"url":"#limits","title":"연구 범위의 한계"},{"depth":2,"url":"#data","title":"데이터 출처"}],"children":[["$","$L15",null,{"children":"참고 자료와 용어"}],["$","$L16",null,{"className":"mb-0","children":"소스 코드 저장소와 커밋, 바이너리와 도구, 용어집, 연구 범위의 한계."}],["$","div",null,{"className":"flex flex-row items-center gap-2 border-b pb-6","children":[["$","$L18",null,{"markdownUrl":"/tgtricks-ko-site/docs/reference.md"}],["$","$L1a",null,{"markdownUrl":"/tgtricks-ko-site/docs/reference.md"}]]}],["$","$L1b",null,{"children":[["$","$L1c",null,{"as":"h2","id":"repos","children":"소스 코드 저장소"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"프로젝트"}],["$","th",null,{"children":"저장소"}],["$","th",null,{"children":"분석 커밋"}],["$","th",null,{"children":"설명"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"iOS"}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://github.com/TelegramMessenger/Telegram-iOS/tree/f1dd7a2dbd02cbbf513e75d5695d8d36d1cf5838","children":"TelegramMessenger/Telegram-iOS"}]}],["$","td",null,{"children":[["$","code",null,{"children":"f1dd7a2d"}]," (2026-10-07)"]}],["$","td",null,{"children":["Bazel 빌드, UI는 AsyncDisplayKit 포크와 자체 개발한 ",["$","code",null,{"children":"Display"}]," 모듈 기반"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"macOS"}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://github.com/overtake/TelegramSwift/tree/579cebbf0c01fd41b712eff3647fa7f69db9665d","children":"overtake/TelegramSwift"}]}],["$","td",null,{"children":[["$","code",null,{"children":"579cebbf"}]," (2025-07-29)"]}],["$","td",null,{"children":["UI는 자체 개발한 TGUIKit 기반, ",["$","code",null,{"children":"telegram-ios"}]," 서브모듈의 공유 모듈을 정적 링크"]}]]}]]}]]}]}],"\n",["$","p",null,{"children":"사이트의 모든 소스 코드 링크는 위 표의 고정 커밋을 가리켜요. 그래서 저장소가 업데이트되어도 행 번호가 어긋나지 않아요."}],"\n",["$","$L1c",null,{"as":"h2","id":"tools","children":"바이너리와 도구"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"이름"}],["$","th",null,{"children":"용도"}],["$","th",null,{"children":"링크"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"Telegram for macOS 13.0"}],["$","td",null,{"children":"검증 대상 릴리스 빌드 바이너리(build 283305)"}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://telegram.org/dl/macos","children":"telegram.org/dl/macos"}]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"REA 6.7.0"}],["$","td",null,{"children":"바이너리 분석 오케스트레이션 도구. Mach-O, 서명, 로드 관계, Rizin 명령, LLDB 런타임 관측을 제공"}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://github.com/morluto/rea","children":"morluto/rea"}]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Rizin 0.9.1"}],["$","td",null,{"children":["REA의 ",["$","code",null,{"children":"execute-rizin-command"}]," 백엔드. 문자열, 클래스 테이블, 디스어셈블리를 내보내요"]}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://github.com/rizinorg/rizin","children":"rizinorg/rizin"}]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"Fumadocs"}],["$","td",null,{"children":"이 사이트가 사용하는 문서 프레임워크"}],["$","td",null,{"children":["$","$L1d",null,{"href":"https://fumadocs.dev","children":"fumadocs.dev"}]}]]}]]}]]}]}],"\n",["$","$L1c",null,{"as":"h2","id":"glossary","children":"용어집"}],"\n",["$","div",null,{"className":"relative overflow-auto prose-no-margin my-6","tabIndex":0,"children":["$","table",null,{"children":[["$","thead",null,{"children":["$","tr",null,{"children":[["$","th",null,{"children":"용어"}],["$","th",null,{"children":"정의"}]]}]}],["$","tbody",null,{"children":[["$","tr",null,{"children":[["$","td",null,{"children":"AsyncDisplayKit(ASDK)"}],["$","td",null,{"children":["Facebook이 오픈소스로 공개했고 이후 Texture로 이름이 바뀐 비동기 UI 프레임워크예요. Telegram-iOS는 자체 포크를 유지하며 ",["$","code",null,{"children":"ASDisplayNode"}],"로 백그라운드 스레드에서 레이아웃과 그리기를 해요"]}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"TGUIKit"}],["$","td",null,{"children":"TelegramSwift의 자체 UI 라이브러리예요. AppKit으로 UIKit의 뷰, 리스트, 내비게이션 관습을 재현해요"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"비공개 API"}],["$","td",null,{"children":"Apple SDK 헤더에 선언되어 있지 않은 클래스, 메서드, selector 또는 KVC 키"}]]}],["$","tr",null,{"children":[["$","td",null,{"children":"KVC"}],["$","td",null,{"children":"Key-Value Coding이에요. 문자열 키로 객체 속성을 읽고 쓰며, 비공개 속성도 이렇게 접근할 수 있어요"}]]}],"$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f"]}]]}]}],"\n","$L30","\n","$L31","\n","$L32","\n","$L33","\n","$L34","\n","$L35"]}]]}],["$L36","$L37","$L38","$L39"],"$L3a"]}],"p":"$@3b","v":null,"s":"$c"}}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"reference","s":[]},"h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+1:[["children",{"s":"docs","h":32,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L3d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L3f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$40",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"참고 자료와 용어 · Telegram 기법 아카이브"}],["$","meta","1",{"name":"description","content":"소스 코드 저장소와 커밋, 바이너리와 도구, 용어집, 연구 범위의 한계."}],["$","link","2",{"rel":"icon","href":"/tgtricks-ko-site/icon.svg?icon.29hjlrbf03acm.svg","sizes":"any","type":"image/svg+xml"}],["$","$L41","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@42","v":null,"s":"$c"}},"a":"$@43","u":"$@44","b":"oxZA3t4WYWhqWg1vO-opL"}
+45:I[13693,["$4","$5","$6","$7"],"OutletBoundary"]
+:HL["/tgtricks-ko-site/_next/static/chunks/3bcurqnrxrgbo.css","style"]
+1e:["$","tr",null,{"children":[["$","td",null,{"children":"IMP"}],["$","td",null,{"children":"Objective-C 메서드의 함수 포인터예요. IMP를 얻으면 C 함수처럼 호출하거나 자체 구현으로 바꿔 끼울 수 있어요"}]]}]
+1f:["$","tr",null,{"children":[["$","td",null,{"children":"메서드 스위즐링(swizzling)"}],["$","td",null,{"children":"런타임에 특정 selector에 대응하는 IMP를 맞바꾸거나 다른 것으로 바꿔 끼우는 일"}]]}]
+20:["$","tr",null,{"children":[["$","td",null,{"children":"ISA 교체"}],["$","td",null,{"children":"런타임에 객체의 클래스 포인터를 자동 생성한 서브클래스로 바꿔서 개별 인스턴스의 동작을 바꾸는 일"}]]}]
+21:["$","tr",null,{"children":[["$","td",null,{"children":"Portal"}],["$","td",null,{"children":["같은 레이어 내용을 다른 위치에 보여 주는 비공개 메커니즘이에요. 예: ",["$","code",null,{"children":"_UIPortalView"}],", ",["$","code",null,{"children":"CAPortalLayer"}]]}]]}]
+22:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"CABackdropLayer"}]}],["$","td",null,{"children":"자기 아래에 있는 화면 내용을 샘플링하는 비공개 레이어예요. 시스템 반투명 블러(frosted glass)의 하위 구현이에요"}]]}]
+23:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"CAFilter"}]}],["$","td",null,{"children":"Core Animation의 비공개 필터 클래스예요. 가우시안 블러, 컬러 매트릭스, 디스플레이스먼트 맵 같은 효과를 만들 수 있어요"}]]}]
+24:["$","tr",null,{"children":[["$","td",null,{"children":"additive 애니메이션"}],["$","td",null,{"children":[["$","code",null,{"children":"isAdditive = true"}],"인 애니메이션이에요. 값이 모델 값 위에 더해지므로 이전 위치에서 새 위치로 부드럽게 따라잡을 수 있어요"]}]]}]
+25:["$","tr",null,{"children":[["$","td",null,{"children":"presentation layer"}],["$","td",null,{"children":"레이어가 지금 화면에 보이는 상태예요. 애니메이션을 중단할 때 여기서 시작점을 가져오면 튀는 현상을 피할 수 있어요"}]]}]
+26:["$","tr",null,{"children":[["$","td",null,{"children":"디스플레이 링크"}],["$","td",null,{"children":[["$","code",null,{"children":"CADisplayLink"}],"(iOS) 또는 ",["$","code",null,{"children":"CVDisplayLink"}],"(macOS)예요. 화면 주사율에 맞춰 콜백해요"]}]]}]
+27:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"IOSurface"}]}],["$","td",null,{"children":"프로세스와 GPU 사이에서 공유할 수 있는 픽셀 버퍼"}]]}]
+28:["$","tr",null,{"children":[["$","td",null,{"children":"Swift 작은 문자열"}],["$","td",null,{"children":["15바이트 이내의 Swift ",["$","code",null,{"children":"String"}],"은 별도 메모리 할당 없이 머신 워드 두 개에 바로 저장돼요. 컴파일 후에는 즉치값 형태로 나타나는 경우가 많아요"]}]]}]
+29:["$","tr",null,{"children":[["$","td",null,{"children":["$","code",null,{"children":"MOVZ/MOVK"}]}],["$","td",null,{"children":"arm64에서 16비트 즉치값을 레지스터의 지정한 위치에 쓰는 명령어예요. 짧은 문자열은 흔히 이 명령어로 조립돼요"}]]}]
+2a:["$","tr",null,{"children":[["$","td",null,{"children":"FairPlay"}],["$","td",null,{"children":"App Store가 iOS 실행 파일에 적용하는 암호화예요. 그래서 iOS 릴리스 빌드는 바로 정적 분석을 할 수 없어요"}]]}]
+2b:["$","tr",null,{"children":[["$","td",null,{"children":"hardened runtime"}],["$","td",null,{"children":["macOS의 런타임 보호예요. 켜져 있으면 ",["$","code",null,{"children":"get-task-allow"}],"가 없는 프로세스에는 디버거를 붙일 수 없어요"]}]]}]
+2c:["$","tr",null,{"children":[["$","td",null,{"children":"ad-hoc 서명"}],["$","td",null,{"children":"개발자 인증서를 쓰지 않는 로컬 서명이에요. 수정한 사본을 로컬에서 실행할 때 써요"}]]}]
+2d:["$","tr",null,{"children":[["$","td",null,{"children":[["$","code",null,{"children":"CGEvent"}]," tap"]}],["$","td",null,{"children":"시스템 이벤트 스트림에 끼워 넣는 리스너예요. 다른 앱의 키보드와 마우스 이벤트를 받을 수 있어요"}]]}]
+2e:["$","tr",null,{"children":[["$","td",null,{"children":"리소스 포크, FinderInfo"}],["$","td",null,{"children":"HFS+/APFS 파일의 부가 데이터 스트림과 Finder 메타데이터 비트예요. Telegram은 이걸로 자기 bundle에 커스텀 아이콘을 설정해요"}]]}]
+2f:["$","tr",null,{"children":[["$","td",null,{"children":"Evidence ID"}],["$","td",null,{"children":"REA가 분석 출력마다 만드는 콘텐츠 해시예요. 결과를 다시 확인할 때 써요"}]]}]
+30:["$","$L1c",null,{"as":"h2","id":"limits","children":"연구 범위의 한계"}]
+31:["$","ul",null,{"children":["\n",["$","li",null,{"children":"이 사이트의 내용은 공개 소스 코드의 정적 분석과 macOS 13.0에 대한 한 차례의 바이너리 검증에서 나왔어요."}],"\n",["$","li",null,{"children":"런타임 관측은 시작 화면과 로그인 화면만 다뤄요. 계정에 로그인하지 않았고 채팅 화면에도 들어가지 않았어요."}],"\n",["$","li",null,{"children":"iOS 부분은 전부 소스 분석이고 바이너리 검증은 하지 않았어요."}],"\n",["$","li",null,{"children":["항목에 나오는 비공개 API 사용은 기술 연구 목적으로만 다뤄요. 가져다 쓰기 전에 ",["$","$L1d",null,{"href":"/docs/risk/","children":"위험과 차용 가능성"}],"을 먼저 참고해요."]}],"\n"]}]
+32:["$","$L1c",null,{"as":"h2","id":"data","children":"데이터 출처"}]
+33:["$","p",null,{"children":"사이트는 이런 자료로 만들어져요."}]
+34:["$","ul",null,{"children":["\n",["$","li",null,{"children":"주제 노트 15개"}],"\n",["$","li",null,{"children":"REA 검증 노트 1개"}],"\n",["$","li",null,{"children":"통합 리포트 1개"}],"\n"]}]
+35:["$","p",null,{"children":["노트는 프로젝트 저장소의 ",["$","code",null,{"children":"source-notes/"}]," 디렉터리에 저장되어 있어요. ",["$","code",null,{"children":"scripts/build_content.py"}],"가 노트를 장별 MDX와 항목 데이터로 변환해요. 그래서 스크립트를 다시 실행하면 사이트 내용이 갱신돼요."]}]
+36:["$","link","0",{"rel":"stylesheet","href":"/tgtricks-ko-site/_next/static/chunks/3bcurqnrxrgbo.css","precedence":"next"}]
+37:["$","script","script-0",{"src":"/tgtricks-ko-site/_next/static/chunks/27pdr-a3rw7r4.js","async":true}]
+38:["$","script","script-1",{"src":"/tgtricks-ko-site/_next/static/chunks/2s34ijz_codt7.js","async":true}]
+39:["$","script","script-2",{"src":"/tgtricks-ko-site/_next/static/chunks/0apo_hhmwh1br.js","async":true}]
+3a:["$","$L45",null,{"children":["$","$40",null,{"name":"Next.MetadataOutlet","children":"$@46"}]}]
+44:true
+c:300
+46:null
+c:C
+43:0
+a:"$undefined"
+42:"$undefined"
+3b:"$undefined"
